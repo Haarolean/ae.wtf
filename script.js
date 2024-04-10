@@ -1,5 +1,10 @@
 const msg = document.getElementById("msg");
 
+//msg.innerHTML = "Rickrolled!";
+window.location.href = "https://youtu.be/mx86-rTclzA"; 
+break;
+
+/*
 switch(Math.floor(Math.random() * 20)) {
     case 0:
     case 1:
@@ -33,3 +38,4 @@ switch(Math.floor(Math.random() * 20)) {
         window.location.href = "https://youtu.be/_IneeB-UDFA?t=60"; 
         break;
 }
+*/
