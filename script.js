@@ -1,7 +1,7 @@
 const msg = document.getElementById("msg");
 
 //msg.innerHTML = "Rickrolled!";
-window.location.href = "https://youtu.be/mx86-rTclzA"; 
+window.location.href = "https://youtu.be/xvFZjo5PgG0"; 
 
 /*
 switch(Math.floor(Math.random() * 20)) {
